@@ -1,0 +1,6 @@
+# Who I am...
+Ambitious 17 year old programmer with extensive knowledge regarding the C programming language, as well as other low-level constructs, for over ~5 years.
+# ...what I'm currently working on...
+I've recently been working on implementing a compiler for a programming language which I've been designing, based on the original C programming language, but with plans to add in safety like C++ does, but with better consistency.
+# ...what I plan to work on in the future.
+Hoping to write an assembler & linker after finishing my compiler, and maybe even landing a good job in tech!
